@@ -1,0 +1,10 @@
+chromadb
+pandas
+llama-index
+fastapi
+sentence-transformers
+torch
+transformers
+uvicorn
+numpy
+pyenchant
