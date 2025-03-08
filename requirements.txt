@@ -1,10 +1,7 @@
-chromadb
-pandas
-llama-index
-fastapi
-sentence-transformers
-torch
-transformers
-uvicorn
 numpy
-pyenchant
+nltk
+sklearn
+textblob
+spaCy
+spacy download en_core_web_sm
+chromadocx
